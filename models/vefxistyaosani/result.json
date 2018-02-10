@@ -1,0 +1,21 @@
+{
+  "best_model": "vefxistyaosani/best_model/model-6810",
+  "best_valid_ppl": 5.417693614959717,
+  "encoding": "utf-8",
+  "latest_model": "vefxistyaosani/save_model/model-2043000",
+  "params": {
+    "batch_size": 20,
+    "dropout": 0.0,
+    "embedding_size": 0,
+    "hidden_size": 128,
+    "input_dropout": 0.0,
+    "learning_rate": 0.002,
+    "max_grad_norm": 5.0,
+    "model": "lstm",
+    "num_layers": 2,
+    "num_unrollings": 10,
+    "vocab_size": 47
+  },
+  "test_ppl": 5.55065393447876,
+  "vocab_file": "vefxistyaosani/vocab.json"
+}

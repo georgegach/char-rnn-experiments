@@ -1,0 +1,21 @@
+{
+  "best_model": "georgian_writers/best_model/model-425",
+  "best_valid_ppl": 9.155362129211426,
+  "encoding": "utf-8",
+  "latest_model": "georgian_writers/save_model/model-250000",
+  "params": {
+    "batch_size": 20,
+    "dropout": 0.0,
+    "embedding_size": 0,
+    "hidden_size": 128,
+    "input_dropout": 0.0,
+    "learning_rate": 0.002,
+    "max_grad_norm": 5.0,
+    "model": "lstm",
+    "num_layers": 2,
+    "num_unrollings": 10,
+    "vocab_size": 37
+  },
+  "test_ppl": 8.21134090423584,
+  "vocab_file": "georgian_writers/vocab.json"
+}

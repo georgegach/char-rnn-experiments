@@ -1,0 +1,6 @@
+model_checkpoint_path: "model-384"
+all_model_checkpoint_paths: "model-256"
+all_model_checkpoint_paths: "model-272"
+all_model_checkpoint_paths: "model-320"
+all_model_checkpoint_paths: "model-368"
+all_model_checkpoint_paths: "model-384"

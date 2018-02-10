@@ -1,0 +1,21 @@
+{
+  "best_model": "georgian_poets/best_model/model-384",
+  "best_valid_ppl": 9.57304573059082,
+  "encoding": "utf-8",
+  "latest_model": "georgian_poets/save_model/model-48000",
+  "params": {
+    "batch_size": 20,
+    "dropout": 0.0,
+    "embedding_size": 0,
+    "hidden_size": 128,
+    "input_dropout": 0.0,
+    "learning_rate": 0.002,
+    "max_grad_norm": 5.0,
+    "model": "lstm",
+    "num_layers": 2,
+    "num_unrollings": 10,
+    "vocab_size": 34
+  },
+  "test_ppl": 10.933645248413086,
+  "vocab_file": "georgian_poets/vocab.json"
+}
