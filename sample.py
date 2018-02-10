@@ -107,7 +107,7 @@ def main():
                                             vocab_index_dict, index_vocab_dict,
                                             temperature=args.temperature,
                                             max_prob=args.max_prob)
-            print('Sampled text is:\n%s' % sample)
+            print('%s' % sample)
         return sample
 
 if __name__ == '__main__':
